@@ -17,4 +17,12 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
   Technologies*'
+url_pdf: ''
+url_data: 'https://dl.acm.org/doi/abs/10.1145/3478076'
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'LAX Score'
+  focal_point: ''
+  preview_only: false
 ---
