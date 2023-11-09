@@ -16,11 +16,5 @@ publication: '*2021 IEEE/ACM Conference on Connected Health: Applications, Syste
   and Engineering Technologies (CHASE)*'
 publication_short: In *CHASE*
 url_pdf: 'https://amandawatson.org/publication/choi-2021-vitalcore/VitalCore.pdf'
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
 ---
