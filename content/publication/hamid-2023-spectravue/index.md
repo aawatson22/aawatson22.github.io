@@ -12,4 +12,12 @@ publication_types:
 publication: '*Adjunct Proceedings of the 2023 ACM International Joint Conference
   on Pervasive and Ubiquitous Computing & the 2023 ACM International Symposium on
   Wearable Computing*'
+url_pdf: '' 
+url_code: 'https://github.com/tarek-hamid/SpectraVue'
+url_video: 'https://www.youtube.com/watch?v=oZzzsWvLiUc'
+
+image:
+caption: 'SpectraVue'
+focal_point: ''
+preview_only: false
 ---
