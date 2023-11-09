@@ -1,0 +1,13 @@
+---
+title: 'TracKnee: Knee angle measurement using stretchable conductive fabric sensors'
+authors:
+- Amanda Watson
+- Minglong Sun
+- Samhita Pendyal
+- Gang Zhou
+date: '2020-01-01'
+publishDate: '2023-11-09T03:52:57.704398Z'
+publication_types:
+- article-journal
+publication: '*Smart Health*'
+---
