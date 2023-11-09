@@ -15,12 +15,19 @@ publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiqu
 tags:
 - Source Themes
 featured: true
-url_pdf:
-url_code: 
+url_pdf: ''
+url_code: 'https://github.com/aawatson22/Lumos'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Lumos'
   focal_point: ""
   preview_only: false
+  
+# Associated Projects (optional).
+  #   Associate this publication with one or more of your projects.
+  #   Simply enter your project's folder or file name without extension.
+  #   E.g. `internal-project` references `content/project/internal-project/index.md`.
+  #   Otherwise, set `projects: []`.
+  projects: [Lumos]
 ---
