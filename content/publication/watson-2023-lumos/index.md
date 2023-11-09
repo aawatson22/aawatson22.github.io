@@ -12,4 +12,15 @@ publication_types:
 - article-journal
 publication: '*Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
   Technologies*'
+tags:
+- Source Themes
+featured: true
+url_pdf:
+url_code: 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Lumos'
+  focal_point: ""
+  preview_only: false
 ---
