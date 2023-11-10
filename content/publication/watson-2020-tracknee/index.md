@@ -11,4 +11,5 @@ publication_types:
 - article-journal
 publication: '*Smart Health*'
 url_pdf: '' 
+url_slides: 'https://amandawatson.org/publication/watson-2020-tracknee/TracKnee Presentation.pdf'
 ---

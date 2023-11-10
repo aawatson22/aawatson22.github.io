@@ -9,5 +9,5 @@ publication_types:
 - paper-conference
 publication: '*2016 IEEE First International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)*'
 url_pdf: '' 
-url_poster:'https://amandawatson.org/publication/watson-2016-microsleep/Chase Poster.pdf'
+url_poster: 'https://amandawatson.org/publication/watson-2016-microsleep/Chase Poster.pdf'
 ---
