@@ -122,7 +122,7 @@ sections:
       columns: '2'
       view: citation
   - block: news
-    id: posts
+    id: news
     content:
       title: In the News
       subtitle: ''
