@@ -121,7 +121,7 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: news
+  - block: collection
     id: news
     content:
       title: In the News
