@@ -8,4 +8,5 @@ publishDate: '2023-11-09T04:01:28.503636Z'
 publication_types:
 - article-journal
 publication: '*Smart Health*'
+url_pdf: '' 
 ---
