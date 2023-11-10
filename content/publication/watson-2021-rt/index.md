@@ -15,4 +15,5 @@ publication_types:
 - paper-conference
 publication: '*2021 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)*'
 url_pdf: '' 
+url_slides: 'https://amandawatson.org/publication/watson-2021-rt/ACLRT.pdf'
 ---
