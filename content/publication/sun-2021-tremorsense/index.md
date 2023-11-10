@@ -1,6 +1,5 @@
 ---
-title: "TremorSense: Tremor Detection for Parkinson's Disease Using Convolutional
-  Neural Network"
+title: "TremorSense: Tremor Detection for Parkinson's Disease Using Convolutional Neural Network"
 authors:
 - Minglong Sun
 - Amanda Watson

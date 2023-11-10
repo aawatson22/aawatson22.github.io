@@ -17,6 +17,7 @@ tags:
 featured: true
 url_pdf: ''
 url_code: 'https://github.com/aawatson22/Lumos'
+url_slides: 'https://amandawatson.org/publication/watson-2023-lumos/Ubicomp 2024 Pres.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
