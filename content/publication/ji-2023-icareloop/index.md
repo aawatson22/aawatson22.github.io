@@ -1,6 +1,5 @@
 ---
-title: 'iCareLoop: Closed-Loop Sensing and Intervention for Gerontological Social
-  Isolation and Loneliness'
+title: 'iCareLoop: Closed-Loop Sensing and Intervention for Gerontological Social Isolation and Loneliness'
 authors:
 - Xiayan Ji
 - Ahhyun Yuh
@@ -12,7 +11,10 @@ authors:
 - Hajime Nagahara
 - Teruo Higashino
 - Teruhiro Mizumoto
-- ' others'
+- Viktor Erdelyi
+- George Demiris
+- Oleg Sokolsky
+- Insup Lee
 date: '2023-01-01'
 publishDate: '2023-11-09T04:01:28.372515Z'
 publication_types:
