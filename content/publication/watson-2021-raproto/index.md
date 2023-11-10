@@ -1,6 +1,5 @@
 ---
-title: 'Raproto: an open source platform for rapid prototyping of wearable medical
-  devices'
+title: 'Raproto: an open source platform for rapid prototyping of wearable medical devices'
 authors:
 - Amanda Watson
 - Hyonyoung Choi
@@ -12,4 +11,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the Workshop on Medical Cyber Physical Systems and Internet of Medical Things*'
 url_pdf: '' 
+url_slides: 'https://amandawatson.org/publication/watson-2021-raproto/Raproto.pdf'
 ---
