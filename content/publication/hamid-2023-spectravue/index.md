@@ -20,7 +20,6 @@ image:
 caption: 'SpectraVue'
 focal_point: ''
 preview_only: false
----
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -28,4 +27,5 @@ preview_only: false
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Lumos
+- Lumos
+---
