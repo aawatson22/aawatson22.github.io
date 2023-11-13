@@ -20,6 +20,8 @@ image:
 caption: 'SpectraVue'
 focal_point: ''
 preview_only: false
+tags:
+- Lumos
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
