@@ -19,6 +19,35 @@ url_code: 'https://github.com/tarek-hamid/SpectraVue'
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3569502'
 url_video: 'https://www.youtube.com/watch?v=oZzzsWvLiUc'
 url_slides: 'https://amandawatson.org/project/Lumos/Ubicomp 2024 pres.pdf'
+
+sections:
+- block: collection
+  id: news
+  content:
+    title: In the News
+    subtitle: ''
+    text: ''
+    # Choose how many pages you would like to display (0 = all pages)
+    count: 5
+    # Filter on criteria
+    filters:
+      folders:
+        - news
+      author: ""
+      category: ""
+      tag: "Lumos"
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      publication_type: ""
+    # Choose how many pages you would like to offset by
+    offset: 0
+    # Page order: descending (desc) or ascending (asc) date.
+    order: desc
+  design:
+    # Choose a layout view
+    view: compact
+    columns: '2'
 ---
 
 Spectroscopy, the study of the interaction between electromagnetic radiation and matter, is a vital technique in many disciplines. This technique is limited to lab settings, and, as such, sensing is isolated and infrequent. Thus, it can only provide a brief snapshot of the monitored parameter. Wearable technology brings sensing and tracking technologies out into everyday life, creating longitudinal datasets that provide more insight into the monitored parameter. Lumos is an open-source device for wearable spectroscopy research. Lumos can facilitate on-body spectroscopy research in health monitoring, athletics, rehabilitation, and more. 
