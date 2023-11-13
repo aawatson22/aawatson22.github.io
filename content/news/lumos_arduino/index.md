@@ -1,6 +1,6 @@
 ---
 title: Lumos finally enables wearable spectroscopy research!
-date: '2023-1-27'
+date: '2023-01-27'
 summary: 
 ---
 
