@@ -95,8 +95,8 @@ sections:
       title: WRL Members
       user_groups:
         - PhD Students
-        - Undergraduate Students
         - Masters Students
+        - Undergraduate Students
         - Alumni
       sort_by: Params.last_name
       sort_ascending: true

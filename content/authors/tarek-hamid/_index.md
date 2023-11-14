@@ -1,4 +1,6 @@
 ---
+Title: Tarek Hamid
+
 # Full name (for SEO)
 first_name: Tarek
 last_name: Hamid
@@ -22,8 +24,7 @@ organizations:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: cv
     icon_pack: ai
@@ -31,7 +32,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aawatson@virginia.edu'
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=07cpc1QAAAAJ&hl=en&oi=sra
   - icon: github
