@@ -5,12 +5,8 @@ Title: Tarek Hamid
 first_name: Tarek
 last_name: Hamid
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: PhD Student
@@ -19,8 +15,6 @@ role: PhD Student
 organizations:
   - name: University of Virginia
     url: https://www.virginia.edu/
-
-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,8 +39,7 @@ social:
 user_groups: ["PhD Students"]
 
     
-
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
