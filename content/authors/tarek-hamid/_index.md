@@ -1,10 +1,4 @@
 ---
-# Display name
-title: Amanda Watson
-
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Tarek
 last_name: Hamid
@@ -17,7 +11,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Electrical and Computer Engineering
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
