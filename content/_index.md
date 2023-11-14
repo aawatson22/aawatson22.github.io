@@ -102,11 +102,11 @@ sections:
       sort_ascending: true
       design:
         # Show user's social networking links? (true/false)
-        show_social: false
+        show_social: true
         # Show user's interests? (true/false)
         show_interests: false
         # Show user's role?
-        show_role: true
+        show_role: false
         # Show user's organizations/affiliations?
         show_organizations: true
   - block: collection

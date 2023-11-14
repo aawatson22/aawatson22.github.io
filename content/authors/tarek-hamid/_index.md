@@ -11,6 +11,8 @@ superuser: false
 # Role/position/tagline
 role: PhD Student
 
+user_groups: ["PhD Students"]
+
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Virginia
@@ -36,7 +38,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/tarekhamid/
     
-user_groups: ["PhD Students"]
+
 
     
 # Highlight the author in author lists? (true/false)
