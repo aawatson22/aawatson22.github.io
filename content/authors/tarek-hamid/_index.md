@@ -46,6 +46,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tarekhamid/
+    
+user_groups: ["PhD Students"]
 
     
 
