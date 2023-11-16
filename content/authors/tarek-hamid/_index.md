@@ -38,10 +38,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/tarekhamid/
     
-
-
     
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
