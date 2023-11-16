@@ -4,9 +4,8 @@ title: ''
 date: 2022-10-24
 type: landing
 banner:
-image: 'chris-montgomery-smgTvepind4-unsplash.jpg'
-caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
-
+  image: 'header.png'
+  
 sections:
   - block: about.biography
     id: about
