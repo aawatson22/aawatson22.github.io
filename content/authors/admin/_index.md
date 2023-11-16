@@ -16,6 +16,9 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+
+user_groups: ["PhD Students"]
+
 # Role/position/tagline
 role: Assistant Professor of Electrical and Computer Engineering
 
