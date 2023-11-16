@@ -22,6 +22,8 @@ main:
   - name: News
     url: '#news'
     weight: 60
+
+second:
   - name: 'I am hiring PhD students – if interested, please mention my name in your application.'
 
 # Link to a PDF of your resume/CV from the menu.
