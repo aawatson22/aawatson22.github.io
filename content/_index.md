@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Hugo Academic Theme
+      title: I am hiring PhD students – if interested, please mention my name in your application and send me an email.
     design:
       background:
         gradient_end: '#1976d2'
