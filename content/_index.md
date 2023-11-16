@@ -5,6 +5,7 @@ date: 2022-10-24
 type: landing
 banner:
   image: 'header.png'
+  caption: 'Yay! It works'
   
 sections:
   - block: about.biography
