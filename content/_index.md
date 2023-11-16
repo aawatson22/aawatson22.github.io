@@ -1,8 +1,11 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'hi'
+title: ''
 date: 2022-10-24
 type: landing
+banner:
+  caption: 'I am hiring PhD students – if interested, please mention my name in your application.'
+  image: ''
 
 sections:
   - block: about.biography
