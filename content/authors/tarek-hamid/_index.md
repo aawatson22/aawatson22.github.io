@@ -5,6 +5,8 @@ Title: Tarek Hamid
 first_name: Tarek
 last_name: Hamid
 
+external_link: https://tarek-hamid.github.io
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -40,6 +42,6 @@ social:
     
     
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
