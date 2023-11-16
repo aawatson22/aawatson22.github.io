@@ -4,8 +4,8 @@ title: ''
 date: 2022-10-24
 type: landing
 banner:
-  caption: 'I am hiring PhD students – if interested, please mention my name in your application.'
-  image: ''
+image: 'header.png'
+caption: 'Image credit: [**Geo**](https://github.com/gcushen/)'
 
 sections:
   - block: about.biography
