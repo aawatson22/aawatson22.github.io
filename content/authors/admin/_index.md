@@ -17,8 +17,6 @@ status:
 superuser: true
 
 
-user_groups: ["PhD Students"]
-
 # Role/position/tagline
 role: Assistant Professor of Electrical and Computer Engineering
 
