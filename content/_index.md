@@ -117,7 +117,7 @@ sections:
         # Show user's role?
         show_role: false
         # Show user's organizations/affiliations?
-        show_organizations: true
+        show_organizations: false
   - block: collection
     id: news
     content:
