@@ -17,6 +17,7 @@ image:
 url_code: 'https://github.com/aawatson22/Lumos'
 url_code: 'https://github.com/tarek-hamid/SpectraVue'
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3569502'
+url_video: 'https://www.youtube.com/watch?v=S_-QxEZiEwA'
 url_video: 'https://www.youtube.com/watch?v=oZzzsWvLiUc'
 url_slides: 'https://amandawatson.org/project/Lumos/Ubicomp 2024 pres.pdf'
 
