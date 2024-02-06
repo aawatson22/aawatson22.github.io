@@ -28,7 +28,7 @@ organizations:
     url: https://www.virginia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Wearable Technolgy, Internet of Medical Things, Smart Health, Sensor Systems, Ubiquitous Computing, High Performance Athletics.
+bio: My research interests include Wearable technology, Internet of Medical Things, Smart Health, Sensor Systems, Ubiquitous Computing, High-Performance Athletics.
 
 # Interests to show in About widget
 interests:
